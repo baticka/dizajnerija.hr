@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Boris B.
+N:B.;Boris;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:pitaj.dizajnera@dizajnerija.hr
+TEL;TYPE=CELL:091 515 0239
+item1.ORG:dizajnerija
+item1.X-ABLabel:
+item2.URL:https\://www.dizajnerija.hr/
+item2.X-ABLabel:homePage
+END:VCARD

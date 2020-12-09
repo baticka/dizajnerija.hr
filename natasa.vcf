@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Nataša Batić
+N:Batić;Nataša;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:pitaj.dizajnera@dizajnerija.hr
+item1.TEL:091 761 7263
+item1.X-ABLabel:
+item2.ADR:;;;Zagreb;;;HR
+item2.X-ABLabel:
+item3.ORG:dizajnerija\, dizajn studio
+item3.X-ABLabel:
+item4.TITLE:dizajner
+item4.X-ABLabel:
+URL;TYPE=WORK:https\://www.dizajnerija.hr/
+END:VCARD
